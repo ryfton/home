@@ -1,0 +1,4 @@
+C:\Users\kassim\Desktop\visual\gitt\home\Tbanque\Tbanque\obj\Debug\netcoreapp3.1\Tbanque.csprojAssemblyReference.cache
+C:\Users\kassim\Desktop\visual\gitt\home\Tbanque\Tbanque\obj\Debug\netcoreapp3.1\Tbanque.AssemblyInfoInputs.cache
+C:\Users\kassim\Desktop\visual\gitt\home\Tbanque\Tbanque\obj\Debug\netcoreapp3.1\Tbanque.AssemblyInfo.cs
+C:\Users\kassim\Desktop\visual\gitt\home\Tbanque\Tbanque\obj\Debug\netcoreapp3.1\Tbanque.csproj.CoreCompileInputs.cache
