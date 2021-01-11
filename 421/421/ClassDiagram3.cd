@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="_421.MancheCourante">
+    <Position X="12.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="PartieCourante" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="_421.De1">
+    <Position X="8" Y="1" Width="1.75" />
+    <AssociationLine Name="MancheCourante" Type="_421.MancheCourante">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.05" Y="0.089" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>De.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="MancheCourante" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="_421.PartieCourante">
+    <Position X="16" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>partieCourante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_421.De2">
+    <Position X="7.75" Y="2.25" Width="1.5" />
+    <InheritanceLine Type="_421.De" FixedFromPoint="true">
+      <Path>
+        <Point X="5.25" Y="2.625" />
+        <Point X="7.75" Y="2.625" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>De2.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="MancheCourante" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="_421.D3">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>D3.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="MancheCourante" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="_421.De">
+    <Position X="2.75" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>De.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
